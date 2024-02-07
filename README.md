@@ -38,4 +38,17 @@ I trust this message finds you well. I am assigning a task for the development o
 
 Wishing you all the best in your development endeavors.
 
+Submission Guidelines:
+Fork the Repository:
 
+Fork the main repository to your GitHub account.
+Clone Your Fork:
+
+Clone your forked repository to your local machine.
+git clone 
+
+git checkout -b assement_yourname
+
+git add .
+git commit -m "submission"
+git push origin assement_yourname
