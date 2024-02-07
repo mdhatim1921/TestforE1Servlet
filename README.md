@@ -45,7 +45,7 @@ Fork the main repository to your GitHub account.
 Clone Your Fork:
 
 Clone your forked repository to your local machine.
-git clone 
+  git clone https://github.com/advancejavajsp/TestforE1Servlet.git
 
 git checkout -b assement_yourname
 
